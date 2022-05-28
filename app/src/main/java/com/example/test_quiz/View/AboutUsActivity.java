@@ -53,7 +53,7 @@ public class AboutUsActivity extends AppCompatActivity {
             }
         });
 
-        String webAddress = "https://sites.google.com/view/quizzerapp/home";
+        String webAddress = "https://www.facebook.com/nidhal.ajlani.7";
         mWebview .loadUrl(webAddress);
         setContentView(mWebview );
 
